@@ -3,5 +3,7 @@
 various graphic stuff for philfest mississauga 2022 for affinity publisher
 
 Artcards: https://github.com/cheesoup/philfest_mississauga_2022/tree/main/Artcards/JPG
+
 Posters: https://github.com/cheesoup/philfest_mississauga_2022/tree/main/Poster/JPG
+
 Facebook Covers: https://github.com/cheesoup/philfest_mississauga_2022/tree/main/FacebookCover/JPG
